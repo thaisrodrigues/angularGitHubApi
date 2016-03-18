@@ -6,7 +6,7 @@ Gerei a pasta dist, onde você pode rodar a aplicação clicando no arquivo inde
 
 Todo o código fonte se encontra dentro da pasta app.
 
-Um pequeno resumo da aplicação:
+# Um pequeno resumo da aplicação:
 
 Fiz está aplicação utilizando angular.
 
