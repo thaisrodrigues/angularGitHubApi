@@ -1,7 +1,5 @@
 # Aplicação em angular utilizando a api do GitHub
 
-Running `grunt test` will run the unit tests with karma.
-
 Este teste também está disponível para acesso no link http://176.32.230.49/thaisrodriguesvml.com/
 
 Gerei a pasta dist, onde você pode rodar a aplicação clicando no arquivo index.html.
